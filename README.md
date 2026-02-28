@@ -32,7 +32,7 @@ HMO-student-science-conference-2026/
 
 1. Tải mẫu abstract tại thư mục [`templates/`](./templates/)
 2. Viết báo cáo tóm tắt theo mẫu
-3. Nộp qua Google Form (link sẽ được cập nhật)
+3. Nộp qua [**Google Form tại đây**](https://forms.gle/sysi2SB9a241jz3x6)
 4. **Hạn chót: 20/03/2026**
 
 ## 🔬 Các lĩnh vực nghiên cứu
