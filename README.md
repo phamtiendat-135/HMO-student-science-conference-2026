@@ -1,12 +1,10 @@
-# 🎓 Hội nghị Khoa học Sinh viên 2026
-## Khoa Khí tượng Thuỷ văn và Hải dương học
-### Trường Đại học Khoa học Tự nhiên – Đại học Quốc gia Hà Nội
+# 🎓 Hội nghị Khoa học Sinh viên Khoa Khí tượng Thuỷ văn và Hải dương học 2026
 
 ---
 
 ## 📋 Giới thiệu
 
-Hội nghị Khoa học Sinh viên năm 2026 là sự kiện thường niên do Khoa Khí tượng Thuỷ văn và Hải dương học tổ chức, nhằm tạo diễn đàn để sinh viên trình bày kết quả nghiên cứu khoa học, rèn luyện kỹ năng học thuật và giao lưu học hỏi.
+Hội nghị Khoa học Sinh viên Khoa Khí tượng Thuỷ văn và Hải dương học năm 2026 là sự kiện thường niên nhằm tạo diễn đàn để sinh viên trình bày kết quả nghiên cứu khoa học, rèn luyện kỹ năng học thuật và giao lưu học hỏi.
 
 ## 📅 Thời gian quan trọng
 
@@ -15,26 +13,14 @@ Hội nghị Khoa học Sinh viên năm 2026 là sự kiện thường niên do 
 | ⏰ Hạn nộp báo cáo tóm tắt (abstract) | **20/03/2026** |
 | 🎤 Ngày diễn ra hội nghị (dự kiến) | **10/04/2026** |
 
-## 📂 Cấu trúc Repository
-
-```
-HMO-student-science-conference-2026/
-├── 📄 README.md                    # Thông tin chung về hội nghị (file này)
-├── 📁 abstracts/                   # Bài tóm tắt của sinh viên
-├── 📁 templates/                   # Mẫu báo cáo tóm tắt
-├── 📁 participants/                # Danh sách sinh viên đăng ký
-├── 📁 schedule/                    # Lịch trình hội nghị
-└── 📁 scripts/                     # Script xử lý dữ liệu
-```
-
 ## 📝 Hướng dẫn nộp bài
 
 1. Tải mẫu abstract tại thư mục [`templates/`](./templates/)
-2. Viết báo cáo tóm tắt theo mẫu
+2. Viết báo cáo tóm tắt theo mẫu, **lưu ý: không thay đổi format của mẫu Abstract để công tác biên tập được dễ dàng hơn. 
 3. Nộp qua [**Google Form tại đây**](https://forms.gle/sysi2SB9a241jz3x6)
-4. **Hạn chót: 20/03/2026**
+4. **Hạn nộp tóm tắt: 20/03/2026**
 
-## 🔬 Các lĩnh vực nghiên cứu
+## 🔬 Các lĩnh vực nghiên cứu chính
 
 - Khí tượng học (Meteorology)
 - Thuỷ văn học (Hydrology)
@@ -46,7 +32,7 @@ HMO-student-science-conference-2026/
 
 ## 📧 Liên hệ
 
-Mọi thắc mắc xin liên hệ Văn phòng Khoa Khí tượng Thuỷ văn và Hải dương học.
+Mọi thắc mắc xin liên hệ TS. Phạm Tiến Đạt - Phó Trưởng Khoa KTTVHDH, email: datpt@hus.edu.vn, ĐT/Zalo: 0388147491
 
 ---
 
