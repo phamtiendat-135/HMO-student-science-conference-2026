@@ -13,8 +13,7 @@ Hội nghị Khoa học Sinh viên năm 2026 là sự kiện thường niên do 
 | Mốc thời gian | Ngày |
 |---|---|
 | ⏰ Hạn nộp báo cáo tóm tắt (abstract) | **20/03/2026** |
-| 📝 Thông báo kết quả phản biện | TBD |
-| 🎤 Ngày diễn ra hội nghị | TBD |
+| 🎤 Ngày diễn ra hội nghị (dự kiến) | **10/04/2026** |
 
 ## 📂 Cấu trúc Repository
 
