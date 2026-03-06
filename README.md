@@ -38,4 +38,4 @@ Mọi thắc mắc xin liên hệ TS. Phạm Tiến Đạt - Phó Trưởng Khoa
 
 ---
 
-© 2026 Khoa Khí tượng Thuỷ văn và Hải dương học – ĐHQGHN
+© 2026 Khoa Khí tượng Thuỷ văn và Hải dương học – Trường Đại học Khoa học Tự nhiên - ĐHQGHN
